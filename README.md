@@ -167,8 +167,4 @@ Android:
 
 
 ## Donate ##
-You can use this cordova plugin for free. To support this project, donation is welcome.  
-Donation can be accepted in either of following ways:
-* Share 2% Ad traffic. (It's not mandatory. If you are unwilling to share, please fork and remove the donation code.)
-* [Donate directly via Paypal](http://floatinghotpot.github.io/#donate)
-
+THIS REMOVES THE DONATION CODE FROM THE ORIGINAL PLUGIN. IF YOU WOULD LIKE TO DONATE, USE THE PLUGIN AT https://github.com/floatinghotpot/cordova-plugin-admob
