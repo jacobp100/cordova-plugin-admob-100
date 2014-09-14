@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	id="com.rjfun.cordova.plugin.admob"
+	id="com.jacobp100.cordova.plugin.admob"
 	version="2.0.4">
       
     <name>AdMob</name>
@@ -26,10 +26,10 @@
     	<dependency id="com.google.admobsdk-googleplay" version=">=5.0.89"/>
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="AdMob">
-                <param name="android-package" value="com.rjfun.cordova.plugin.AdMob"/>
+                <param name="android-package" value="com.jacobp100.cordova.plugin.AdMob"/>
             </feature>
         </config-file>
-        <source-file src="src/android/AdMob.java" target-dir="src/com/rjfun/cordova/plugin" />
+        <source-file src="src/android/AdMob.java" target-dir="src/com/jacobp100/cordova/plugin" />
      </platform>
      
      <!-- ios -->
