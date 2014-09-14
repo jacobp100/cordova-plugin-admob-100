@@ -49,11 +49,7 @@ More Cordova/PhoneGap plugins by Raymond Xie, [click here](http://floatinghotpot
 ## How to use? ##
 To install this plugin, follow the [Command-line Interface Guide](http://cordova.apache.org/docs/en/edge/guide_cli_index.md.html#The%20Command-line%20Interface).
 
-    cordova plugin add https://github.com/floatinghotpot/cordova-plugin-admob.git
-    
-Or,
-
-    cordova plugin add com.rjfun.cordova.plugin.admob
+    cordova plugin add https://github.com/jacobp100/cordova-plugin-admob-100.git
 
 Note: ensure you have a proper AdMob account and create an Id for your app.
 
