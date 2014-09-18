@@ -61,11 +61,11 @@ Note: ensure you have a proper AdMob account and create an Id for your app.
     cordova platform add ios
 
     // cordova will handle dependency automatically
-    cordova plugin add com.rjfun.cordova.plugin.admob
+    cordova plugin add com.jacobp100.cordova.plugin.admob
 
     // now remove the default www content, copy the demo html file to www
     rm -r www/*;
-    cp plugins/com.rjfun.cordova.plugin.admob/test/index.html www/
+    cp plugins/com.jacobp100.cordova.plugin.admob/test/index.html www/
 
     cordova prepare; cordova run android; cordova run ios;
     // or import into Xcode / eclipse
